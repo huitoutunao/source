@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as n,a as e,b as o}from"./app-138581c8.js";const s={};function c(l,a){return t(),n("div",null,[...a[0]||(a[0]=[e("h1",{id:"框架篇",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#框架篇","aria-hidden":"true"},"#"),o(" 框架篇")],-1),e("p",null,"汇总框架的面试题",-1)])])}const _=r(s,[["render",c],["__file","1.html.vue"]]);export{_ as default};
