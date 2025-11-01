@@ -43,7 +43,8 @@ export default {
       text: 'Vuejs进阶',
       collapsible: true,
       children: [
-        '/guide/vue2_advanced/vue2与vue3的区别.md',
+        '/guide/vue2_advanced/Vue生命周期.md',
+        '/guide/vue2_advanced/Vue2与Vue3的区别.md',
         '/guide/vue2_advanced/Vue2项目简易封装Axios.md',
         '/guide/vue2_advanced/vue-cli4创建项目.md',
         '/guide/vue2_advanced/虚拟列表.md',
